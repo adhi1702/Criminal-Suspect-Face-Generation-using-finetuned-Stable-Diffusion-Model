@@ -5,7 +5,7 @@ pipeline = StableDiffusionPipeline.from_pretrained("face_model_finetuned")
 pipeline.to("cpu")  # Use CPU, as mentioned earlier
 
 #generaqting the image with a specific prompt
-prompt = "20 year old girl very short black hair green dress looking like a bitch"
+prompt = "A female suspect with a 35-40-year-old face, medium build, long blonde hair, green eyes."
 generated_image = pipeline(prompt).images[0]
 
 
