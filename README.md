@@ -20,5 +20,12 @@ This project leverages a fine-tuned Stable Diffusion model to generate facial im
 
 ---
 
+## **Tech Stacks**
+- Pytorch
+- Transformers
+- Diffusers
+
+---
+
 ## **Model Pipeline**
 ![Alt Text](https://github.com/adhi1702/Criminal-Suspect-Face-Generation-using-finetuned-Stable-Diffusion-Model/blob/main/Model_Pipeline.png "Pipeline")
