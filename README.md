@@ -12,3 +12,9 @@ This project leverages a fine-tuned Stable Diffusion model to generate facial im
 - **Visualization**: Generating realistic representations for storytelling or analysis.
 
 ---
+
+## **Features**
+- Generate high-quality facial images from textual descriptions.
+- Model fine-tuned for specific criminal suspect features.
+- Easy-to-use interface for generating and saving images.
+
