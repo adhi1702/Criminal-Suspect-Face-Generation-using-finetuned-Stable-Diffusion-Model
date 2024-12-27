@@ -18,3 +18,7 @@ This project leverages a fine-tuned Stable Diffusion model to generate facial im
 - Model fine-tuned for specific criminal suspect features.
 - Easy-to-use interface for generating and saving images.
 
+---
+
+## **Model Pipeline**
+![Alt Text](https://github.com/adhi1702/Criminal-Suspect-Face-Generation-using-finetuned-Stable-Diffusion-Model/blob/main/Model_Pipeline.png "Pipeline")
